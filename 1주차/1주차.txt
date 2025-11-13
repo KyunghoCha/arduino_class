@@ -1,0 +1,3 @@
++극 VCC 1 HIGH 5V 빨강 ON
+
+-극 GND 0 LOW  0V 검정 OFF
